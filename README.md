@@ -10,7 +10,7 @@ However, I am always a little skeptical about whether I am going in the right di
 
 ---
 
-Most of my repositories are private, since I work with restricted-access administrative data. You can still see my contributions in the little squares (not that you can infer much from it, but you can e-mail me if you want).
+Most of my repositories are private, since I work with restricted-access administrative data. You can still see my contributions in the little squares (not that you can infer much from it, but you can email me if you are interested)
 
 ---
 
