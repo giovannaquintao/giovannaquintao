@@ -1,6 +1,6 @@
 # Hi, I'm Giovanna
 
-In a world where human and AI skills are mixing up so intricately, I chose to have (at least) this README very human.
+In a world where human and AI skills are mixing up intricately, I chose to have (at least) this README very human.
 
 I have been working with data for several years, mostly using **Stata** and **R**. I am also trying to keep up with the AI boom, and I plan to share here some Claude workflows and skills I have been building.
 
