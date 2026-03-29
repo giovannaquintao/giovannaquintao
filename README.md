@@ -4,7 +4,7 @@ In a world where human and AI skills are mixing up intricately, I chose to have 
 
 I have been working with data for several years, mostly using **Stata** and **R**. I am also trying to keep up with the AI boom, and I plan to share here some Claude workflows and skills I have been building.
 
-It can be a *cliché* to say: love what you do. But I truly love research, and I try to put some love in every part of my work. I am a believer that data can drive public policy change, and almost all of my work is centred on this premise.
+It can be a *cliché* to say: love what you do. But I truly love research, and I try to put some love in every part of my work. I am a believer that data can drive public policy change, and almost all of my work is centred on this idea.
 
 However, I am always a little skeptical about whether I am going in the right direction, and I am always shifting my boat when necessary. I use quasi-experimental methods (mostly RDD and differences-in-differences) in my research. Although I focus on causality, I also try to think of the big picture: what forces are driving the mechanisms, where the most variation is coming from.
 
