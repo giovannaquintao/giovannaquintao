@@ -14,7 +14,7 @@ Most of my repositories are private, since I work with restricted-access adminis
 
 ---
 
-I am based in the UK, where I am pursuing my doctoral studies in Economics. Although I like living here, part of my heart is in Brazil: where the sun shines all the year, and where most of my research is based.
+I am based in the UK, where I am pursuing my doctoral studies in Economics. Although I like living here, part of my heart is in Brazil: where the sun shines all the year, and where most of my research is based.  I also have a wonderful partner who is Software Engineer, and who helps me to create good coding practices, saves me where I am desperate in a merge conflict and created a ~beautiful~ server where we can run our codes together faster (such a love story, I know).
 
 ---
 
